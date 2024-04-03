@@ -1,4 +1,4 @@
-# Laravel 11 + React SPA Project
+# Laravel 11 + Inertia React - FullStack Web Application
 
 A simple project management application using Laravel 11 and React.
 
